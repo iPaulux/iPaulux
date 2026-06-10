@@ -1,10 +1,10 @@
 # Hey, je suis Paul 👋
 
-🎨 **Directeur Artistique** chez [Grinto](https://grinto.fr), une agence web.
+🎨 **Art Director** at [Grinto](https://grinto.fr), an web agency.
 
-🎮 **Vice-président & Design Lead** de **Mental Rush**, une top team esport féminine sur League of Legends.
+🎮 **Vice president & Design Lead** at **[MentalRush](https://mentalrush.fr/)**, feminine esports team on League of Legends.
 
-💻 Le dev, c'est ma passion à côté : j'ai fait du Python il y a un moment, du JS, du Vue, et aujourd'hui je *vibe code* surtout en React avec Claude Code.
+💻 I'm doing dev on my free time as a passion !
 
 ---
 
