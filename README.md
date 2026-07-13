@@ -21,5 +21,5 @@
 ### 🔗 Me retrouver
 
 - 🐦 Twitter / X : [@CallMePaulux](https://x.com/CallMePaulux)
-- 🃏 Kaard : [kaard.me/paulux](https://kaard.me/paulux)
+- 🃏 Mes réseaux : [paulux.netlify.app](https://paulux.netlify.app/)
 - 📧 Email : [paul.guttin@gmail.com](mailto:paul.guttin@gmail.com)
