@@ -4,6 +4,8 @@
 
 🎮 **Vice president & Design Lead** at **[MentalRush](https://mentalrush.fr/)**, feminine esports team on League of Legends.
 
+♠️ **Working** on [Dexup](https://dexup.netlify.app), an Pokemon app for collector.
+
 💻 I'm doing dev on my free time as a passion !
 
 ---
